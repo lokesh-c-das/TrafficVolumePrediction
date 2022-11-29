@@ -1,0 +1,2 @@
+LSTM: Loss: 0.0043, Mean Absolute Error: 0.0444, MAPE: 1923.281
+GRU: Loss: 0.0042, Mean Absolute Error: 0.0445, MAPE: 1508.176
