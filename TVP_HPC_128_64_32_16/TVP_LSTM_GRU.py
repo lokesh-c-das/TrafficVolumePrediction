@@ -36,10 +36,10 @@ past_observation = 24 # Number of past hours data used as input to the LSTM and 
 ##########
 
 ######## Model Parameters # 
-hidden_layers_unit = [256, 128,64,32]
+hidden_layers_unit = [128,64,32,16]
 return_sequence = [True, True, True,False]
 batch_size = 32
-num_of_epoch = 500
+num_of_epoch = 3
 
 
 

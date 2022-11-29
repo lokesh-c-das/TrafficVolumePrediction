@@ -47,7 +47,7 @@ past_observation = 6 # Number of past hours data used as input to the LSTM and G
 hidden_layers_unit = [256, 128,64,32]
 return_sequence = [True, True, True,False]
 batch_size = 32
-num_of_epoch = 500
+num_of_epoch = 5
 
 
 
